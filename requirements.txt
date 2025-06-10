@@ -32,3 +32,4 @@ httpx
 xformers
 # bitsandbytes
 bitsandbytes
+gradio_client
